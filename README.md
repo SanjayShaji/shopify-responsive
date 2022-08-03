@@ -1,0 +1,1 @@
+# shopify-responsive
