@@ -1,0 +1,256 @@
+body{
+    background-color: #faf7ed;
+    font-family: Helvetica, Arial, sans-serif;
+    margin: 0;
+    overflow-x: hidden;
+}
+
+
+/* .header div{
+    background-color: #faf7ed;
+    position: fixed;
+    height: 150px;
+    text-align: center;
+} */
+
+.nav-button{
+    background-color: #008060;
+    border: none;
+    color: white;
+    border-radius: 5px;
+
+}
+
+.nav-button:hover{
+    background-color: #004c3e;
+    color: white;
+}
+
+.editions-text{
+    margin-top: 45px;
+    margin-left: 10px; 
+    border: 2px solid rgb(128,177,218);
+    border-radius: 15px;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.editions-text:hover{
+    background: linear-gradient(123deg, rgba(128,177,218,1) 0%, rgba(154,229,193,1) 92%);
+}
+
+.first-poster-container{
+    margin-top: 45px;
+    /* border: 2px solid red; */
+    /* margin-left: 75px; */
+}
+
+.first-poster{
+    margin: 10px;
+}
+
+/* .first-poster-text{
+    border: 2px solid yellow;
+} */
+
+.email{
+    padding: 15px;
+}
+
+.form-container{
+    border: #faf7ed;
+    background-color: #faf7ed;
+}
+
+.button{
+    padding: 15px;
+    /* width: 420px;
+    height: 50px; */
+    background-color: #008060;
+    color: white;
+    cursor: pointer;
+    border-radius: 3px;
+    text-align: center;
+}
+
+.button:hover{
+    background-color: #012e25;
+}
+
+.e-commerce-container{
+    padding-left: 80px;
+    padding-right: 60px;
+
+    padding-top: 100px;
+    /* border: 2px solid blue; */
+    background-color: #004c3e;
+    color: white;
+}
+
+.e-commerce-container p{
+    margin-top: 0;
+}
+.e-commerce-images{
+    
+    /* padding-left: -30px; */
+    height: 450px;
+    width: 255px;
+}
+
+.business-container{
+    padding: 100px;
+    background-color: #004c3e;
+    color: white;
+}
+
+.business{
+    margin-top: 50px;
+}
+
+.business-logos{
+    margin-bottom: 20px;
+    height: 30px;
+    width: 30px;
+    /* background-color: white;
+    border-radius: 10px; */
+}
+
+
+.video-container{
+    background-color: #fffeff;
+}
+
+.video{
+    border-color: white;
+}
+
+.video-text{
+    /* border: 2px solid red; */
+    padding-top: 100px;
+}
+
+.market-container{
+    background-color: #fffeff;
+}
+
+.market-text{
+    padding-top: 140px;
+    /* padding-left: 280px; */
+}
+
+.manage-container{
+    background-color: #fffeff;
+}
+
+.manage-image{
+    /* margin-left: 150px;
+    height: 390px; */
+    width: 600px;
+}
+
+.manage-text{
+    padding-top: 140px;
+    padding-left: 60px;
+}
+
+.empowerment{
+    /* padding-left: 150px; */
+    padding-top: 120px;
+    background-color: #fffeff;
+}
+
+
+
+.earth-image{
+    align-items: center;
+    /* padding-left: 200px; */
+
+    background-color: white;
+    /* padding-left: 200px; */
+}
+
+
+.brand-container{
+    padding-top: 200px;
+    background-color: white;
+    /* border: 2px solid red; */
+}
+
+.brand-image-container{
+    background-color: white;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.brand-image{
+    padding: 15px;
+}
+
+.brand-text{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color: #012e25;
+    color: white;
+    text-align: center;
+}
+
+.first-help{
+    padding-left: 100px;
+}
+.second-help{
+    padding-left: 100px;
+}
+
+ul{
+    list-style: none;
+}
+.table{
+    color: #aaa88e;
+    background-color: #012e25;
+}
+a{
+    cursor: pointer;
+    /* color: white; */
+}
+.table li{
+    padding: 5px;
+}
+
+.table li:hover{
+    color: white;
+}
+.span-class{
+    background-color: #012e25;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.span{
+    padding-left: 30px;
+    color: white;
+}
+
+.span:hover{
+    border-bottom: 1px solid white;
+    cursor: pointer;
+}
+
+.terms{
+    /* border: 2px solid blue; */
+    color: white;
+    font-size: 15px;
+    padding-left: 115px;
+}
+.terms:hover{
+    cursor: pointer;
+}
+
+.play-button{
+    background-color: #012e25;
+     padding: 15px; border-radius: 5px;
+     color: white;
+     border: 1px solid white;
+}
+
+.play-button:hover{
+    background-color: white;
+    color: black;
+}
